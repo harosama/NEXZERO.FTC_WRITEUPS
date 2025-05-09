@@ -28,7 +28,7 @@ we have 4 , let's do the script of RSAMulti.py the result is
 
 witch is the righ hex with the same length as others ,next step is replace it in the line 1443 , i put the result in solFile and applicate the xor to all the lines to find the flag using sol.py script the result is 
 
-Flag: nexus{x0r_ft_Rs1!_S0rry!_but_ch4tGpt_c4n_n0t_s0lv3_3v3ryTh1ng!!}
+### Flag: nexus{x0r_ft_Rs1!_S0rry!_but_ch4tGpt_c4n_n0t_s0lv3_3v3ryTh1ng!!}
 
 
 

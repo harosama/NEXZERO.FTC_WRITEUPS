@@ -46,8 +46,8 @@ Using this interval, we tested each timestamp to regenerate the RSA keys, comput
 
 After iterating through the timestamps, we found the correct one:
 
-[*] Timestamp: 1735926966
-[*] Flag: nexus{PGP_4nd_RSA_are_1337!}
+### Timestamp: 1735926966
+### Flag: nexus{PGP_4nd_RSA_are_1337!}
 
 see the code in sol.py
 

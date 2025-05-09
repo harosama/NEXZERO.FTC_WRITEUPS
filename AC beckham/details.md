@@ -1,4 +1,4 @@
-the challenge is a litlle bit hard in first look so i do my serach as always AC beckham, what i find 
+the challenge is a little bit hard in first look so i do my serach as always AC beckham, what i find 
 
 ### he is footballer 
 ### AC is Associazione Calcio Milan
